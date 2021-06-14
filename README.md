@@ -19,7 +19,7 @@ Kazutoshi Shinoda, Saku Sugawara, Akiko Aizawa. 2021. Improving the Robustness o
 ```
 
 ## Data
-Coming soon.
+Our synthetic datasets are available in the data/ directory.
 
 ## Code
 Coming soon.
