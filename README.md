@@ -2,11 +2,11 @@
 
 This repository contains official codes and data of the paper:
 
-Kazutoshi Shinoda, Saku Sugawara, Akiko Aizawa. 2021. Improving the Robustness of QA Models to Challenge Sets with Variational Question-Answer Pair Generation. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop (ACL-IJCNLP 2021 SRW), pages xx-yy, Online. Association for Computational Linguistics. [[link](https://arxiv.org/abs/2004.03238)]
+Kazutoshi Shinoda, Saku Sugawara, Akiko Aizawa. 2021. Improving the Robustness of QA Models to Challenge Sets with Variational Question-Answer Pair Generation. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop, pages 197-214, Online. Association for Computational Linguistics. [[link](https://arxiv.org/abs/2004.03238)]
 
 ```
 @inproceedings{shinoda-etal-2021-improving,
-    title = " Improving the Robustness of {QA} Models to Challenge Sets with Variational Question-Answer Pair Generation",
+    title = "Improving the Robustness of {QA} Models to Challenge Sets with Variational Question-Answer Pair Generation",
     author = "Shinoda, Kazutoshi  and
       Sugawara, Saku  and
       Aizawa, Akiko",
@@ -14,7 +14,10 @@ Kazutoshi Shinoda, Saku Sugawara, Akiko Aizawa. 2021. Improving the Robustness o
     month = aug,
     year = "2021",
     address = "Online",
-    publisher = "Association for Computational Linguistics"
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-srw.21",
+    doi = "10.18653/v1/2021.acl-srw.21",
+    pages = "197--214",
 }
 ```
 
